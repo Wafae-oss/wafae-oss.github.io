@@ -1,0 +1,43 @@
+h1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FFFFFF;
+    font-size: 50px;
+    text-align: center;
+    background: linear-gradient(90deg, #3494E6, #EC6EAD); 
+}
+
+h2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:  #EC6EAD;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3494E6;
+    font-size: 30px;
+}
+
+h4
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #3494E6;
+    font-size: 20px;
+}
+
+
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #03182a;
+
+}
+nav
+{
+    display : flex;
+}
+
